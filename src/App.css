@@ -1,0 +1,31 @@
+.head {
+    color: darkslateblue;
+    text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+}
+
+.post-container {
+    align-items: center;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.post-item {
+    margin-bottom: 30px;
+}
+
+.post-item h2 {
+    color: #251e49;
+}
+.post-item p {
+    padding: 20px 30px;
+    color: #16122c;
+    border-radius: 10px;
+    border: 1px solid #16122c;
+}
+.post-item button {
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+
+}
